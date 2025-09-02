@@ -620,9 +620,6 @@ def main():
             ✖️ <a href="https://x.com/your-x-handle" target="_blank">X (Twitter)</a>
         </p>
                 
-        <p style="color: #2d3748; font-size: 0.9rem; font-weight: 500;">
-            Bangalore Real Estate Price Predictor | Powered by AI Technology
-        </p>
     </div>
     """, unsafe_allow_html=True)
 
